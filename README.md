@@ -1,6 +1,6 @@
 ## download and install these 2 files from here :
-### [Nethunter kex](https://github.com/itzNuer/kaliandro/releases/download/download/com.offsec.nethunter.kex_11407306.apk)
-### [Termux](https://github.com/itzNuer/kaliandro/releases/download/download/com.termux_118.apk)
+### [Nethunter kex](https://github.com/itzNuer/kaliandro/releases/download/download/Nethunter_kex.apk)
+### [Termux](https://github.com/itzNuer/kaliandro/releases/download/download/Termux.apk)
 ### open termux
 
 ### enter the command and alow the perms
