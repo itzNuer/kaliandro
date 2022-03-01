@@ -1,5 +1,6 @@
-## download and install termux from here :
-
+## download and install these 2 files from here :
+### [Nethunter kex](https://github.com/itzNuer/kaliandro/releases/download/download/com.offsec.nethunter.kex_11407306.apk)
+### [Termux](https://github.com/itzNuer/kaliandro/releases/download/download/com.termux_118.apk)
 ### open termux
 
 ### enter the command and alow the perms
@@ -36,5 +37,7 @@ chmod +x install-nethunter-termux
 nethunter kex &
 ```
 ### you will get something like some numbers but you have to copy a 4 digit number shown after some time
+### open Nethunter kex (don't close termux) and enter the number you got (eg. 5901) put it in the local host section and click start!
+### You got Kali on ur phone gg
 
 
